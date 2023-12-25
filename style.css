@@ -62,8 +62,7 @@
   color: #3a3a3a;
 }
 /* Heading */
-.title,
-.new-task-label {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
